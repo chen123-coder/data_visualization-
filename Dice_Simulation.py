@@ -2,7 +2,7 @@ import numpy as np
 import plotly.express as px
 
 number = 4  
-size = 10000
+size = 3
 num_sides = 6  
 
 # 模拟掷骰子的结果
